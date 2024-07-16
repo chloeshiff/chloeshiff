@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chloeshiff
-- 👀 I’m interested in mathematical modeling of biological systems, in particular spread of infectious disease and in vivo disease mechanisms
-- 🌱 I’m currently a first year PhD student in computational and mathematical engineering at Stanford
+- 👀 I’m interested in enumerative combinatorics for phylogenics, mathematical modeling for biological systems, population genetics
+- 🌱 I’m currently a second year PhD student in computational and mathematical engineering at Stanford
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cshiff@stanford.edu
 
